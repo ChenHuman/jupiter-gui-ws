@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  <include file="$(find stellax)/launch/joystick_teleop.launch" />
+  <node name="re_cmd_port" pkg="stellax_serial" type="re_cmd_port"></node> 
+  <node name="state_publisher" pkg="stellax_serial" type="state_publisher"></node>
+</launch>
+

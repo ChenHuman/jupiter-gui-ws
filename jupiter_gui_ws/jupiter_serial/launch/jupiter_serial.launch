@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="re_cmd_port" pkg="jupiter_serial" type="re_cmd_port"></node> 
+  <node name="state_publisher" pkg="jupiter_serial" type="state_publisher"></node>
+</launch>
+

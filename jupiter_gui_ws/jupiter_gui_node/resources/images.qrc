@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/brake.png</file>
+        <file>images/decrease_angular_speed.png</file>
+        <file>images/decrease_linear_speed.png</file>
+        <file>images/decrease_max_speeds.png</file>
+        <file>images/down.png</file>
+        <file>images/increase_angular_speed.png</file>
+        <file>images/increase_linear_speed.png</file>
+        <file>images/increase_max_speeds.png</file>
+        <file>images/left.png</file>
+        <file>images/left_back.png</file>
+        <file>images/left_forward.png</file>
+        <file>images/right.png</file>
+        <file>images/right_back.png</file>
+        <file>images/right_forward.png</file>
+        <file>images/stop.png</file>
+        <file>images/turn_left.png</file>
+        <file>images/turn_right.png</file>
+        <file>images/up.png</file>
+        <file>images/jupiter.png</file>
+        <file>images/background.png</file>
+    </qresource>
+</RCC>
