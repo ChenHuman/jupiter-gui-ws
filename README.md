@@ -1,1 +1,1 @@
-# jupiter_gui_ws
+# jupiter-gui-ws
