@@ -1,5 +1,8 @@
 # jupiter-gui-ws
 
+### 项目目的
+实现GUI界面软件，便于通过触摸屏点击GUI界面对农业大车进行移动控制和功能演示
+
 ### 项目环境    
 操作系统：Ubuntu 14.04     
 ROS操作系统：ROS indigo version     
